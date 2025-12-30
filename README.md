@@ -1,3 +1,4 @@
 # Apnacollege
 This is my first get Repository
-Author - Abrar Khan
+<br>
+<b> Author - Abrar Khan </b>
